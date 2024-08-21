@@ -9,6 +9,7 @@
  - 🖥️ Manutenção de computadores.
  - 🎈 25 anos.
 - 🎮 Games / 🧿 Animes
+- 😀 Acesse meu [Linkedin](https://www.linkedin.com/in/pedrobianchidev/)
 
 ## Projetos HTML/CSS/Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
@@ -22,7 +23,8 @@
 
 - [Xadrez no CMD](https://github.com/PedroBianchiDev/xadrez-console)
 - [Clone Flappy Bird](https://github.com/PedroBianchiDev/Clone---Flappy-Bird)
-
+  
+          
 #
 ![Megaman](https://64.media.tumblr.com/tumblr_m0ch5ijbjY1qbnt4vo1_500.gifv)
 
