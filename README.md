@@ -102,6 +102,24 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <h3>🧩 <a href="https://github.com/PedroBianchiDev/TilePuzzle">Tile Puzzle</a></h3>
+      <p>Este jogo de lógica desafia o jogador a ordenar peças em uma grade 3x3 ou 4x4. O projeto foca na manipulação de estados de matriz e na verificação dinâmica de condições de vitória.</p>
+      <ul>
+        <li><b>Plataforma:</b> PC.</li>
+      </ul>
+      <p>
+        <a href="https://pedrobianchidev.itch.io/tile-puzzle">🎮 Jogar</a>
+      </p>
+    </td>
+    <td width="250px" align="center">
+      <img src="https://i.ibb.co/60wt5PYv/Tile-Puzzle.png" alt="Tile Puzzle Screenshot" width="200px">
+    </td>
+  </tr>
+</table>
+
 
 
 ## 🌐 Além dos Games
