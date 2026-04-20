@@ -26,7 +26,7 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
 
 ---
 
-## 🚀 Projetos em Destaque (GameDev)
+## 🚀 Projetos 
 
 <table>
   <tr>
