@@ -28,19 +28,25 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
 
 ## 🚀 Projetos em Destaque (GameDev)
 
-### [SunnySword](https://github.com/PedroBianchiDev) ⚔️
-*Em desenvolvimento ativo.* Um RPG de ação com foco em movimentação fluida e sistemas de atributos modulares. 
-- **Destaque técnico:** Implementação de State Machines para movimentação e gerenciamento de animações.
-
-### [BattleChip System Concept](https://github.com/PedroBianchiDev) 🔌
-Mecânicas inspiradas na série Mega Man Battle Network.
-- **Destaque técnico:** Sistema de grid dinâmico e execução de habilidades assíncronas em C#.
-
-> **Outros projetos Unity:**
-> - [Bombardment](https://github.com/PedroBianchiDev/Bombardment) - Shooter arcade focado em feedback de partículas.
-> - [Clone Flappy Bird](https://github.com/PedroBianchiDev/Clone---Flappy-Bird) - Estudo de física e loops de jogo simples.
-
----
+<table>
+  <tr>
+    <td>
+      <h3>🌐 <a href="https://github.com/PedroBianchiDev/Megaman-PET">MegaMan EXE - PET</a></h3>
+      <p>Uma reimaginação do clássico sistema de batalha tática da série MegaMan Battle Network. O projeto recria a experiência de gerenciar seu próprio P.E.T. e NetNavi.</p>
+      <ul>
+        <li><b>Destaque:</b> Implementação fiel ao brinquedo <b>PET ADVANCED Megaman</b>.</li>
+        <li><b>Plataforma:</b> Android.</li>
+      </ul>
+      <p>
+        <a href="https://pedrobianchidev.itch.io/megaman-exe-pet">🎮 Download</a> | 
+        <a href="https://megaman-pet.vercel.app/">📜 Como Jogar</a>
+      </p>
+    </td>
+    <td width="300px">
+      <img src="https://static.wikia.nocookie.net/megaman/images/0/08/MMNTWG4141.png/revision/latest?cb=20140320003212" alt="Screenshot do MegaMan EXE PET" width="300px">
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Além dos Games
 
