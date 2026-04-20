@@ -42,11 +42,67 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
         <a href="https://megaman-pet.vercel.app/">📜 Como Jogar</a>
       </p>
     </td>
-    <td width="300px">
-      <img src="https://static.wikia.nocookie.net/megaman/images/0/08/MMNTWG4141.png/revision/latest?cb=20140320003212" alt="Screenshot do MegaMan EXE PET" width="300px">
+    <td width="250">
+      <img src="https://static.wikia.nocookie.net/megaman/images/0/08/MMNTWG4141.png/revision/latest?cb=20140320003212" alt="Screenshot do MegaMan EXE PET" width="250px">
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
+      <h3>💣 <a href="https://github.com/PedroBianchiDev/Bombardment">Bombardment</a></h3>
+      <p>Um desafio arcade 3D de ritmo acelerado onde o objetivo é simples: sobreviver. O jogador deve desviar de bombardeios constantes que testam seus reflexos.</p>
+      <ul>
+        <li><b>Plataforma:</b> PC.</li>
+      </ul>
+      <p>
+        <a href="https://play.unity.com/en/games/1b30895f-4898-4688-9a72-dc6a8b85417d/bombardment">🎮 Jogar</a>
+      </p>
+    </td>
+    <td width="250px">
+      <img src="https://private-user-images.githubusercontent.com/145021842/363369827-38064116-9515-4583-aed1-23b1295abf7a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3MTg3NDgsIm5iZiI6MTc3NjcxODQ0OCwicGF0aCI6Ii8xNDUwMjE4NDIvMzYzMzY5ODI3LTM4MDY0MTE2LTk1MTUtNDU4My1hZWQxLTIzYjEyOTVhYmY3YS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQyMFQyMDU0MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZmI3NTAwMTBmY2I2NjdiZmI5YmRhMjBjNGYxZGU1YzlkNjYzODY0NjIwNGJmM2ZiNTEwZWEzN2RkOTM5NTM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.dsNHRF5R_IQ7uTYeJ5nrGTbMU7QhYWMVskimfy4qhzQ" alt="Screenshot do Bombardment" width="250px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🐦 <a href="https://github.com/PedroBianchiDev/Clone---Flappy-Bird">Flappy Bird 3D Clone</a></h3>
+      <p>Um clone do clássico mobile desenvolvido para explorar a integração de modelos e iluminação 3D em um ambiente de gameplay estritamente 2D.  </p>
+      <ul>
+        <li><b>Plataforma:</b> PC.</li>
+      </ul>
+      <p>
+        <a href="https://play.unity.com/en/games/54219e89-b2c6-49d6-9dcc-318c7dd0e01e/clone-flappy-bird">🎮 Jogar</a>
+      </p>
+    </td>
+    <td width="250px" align="center">
+      <img src="https://techfrontier.com.au/nitropack_static/qoEzaUnVVMmdfnkgmWKdqPZHmHyfhDwG/assets/images/optimized/rev-7f03b38/techfrontier.com.au/wp-content/uploads/2025/07/Remembering-Flappy-Bird.jpg" alt="Flappy Bird 3D Screenshot" width="220px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🏓 <a href="https://github.com/PedroBianchiDev/MiniPong">MiniPong</a></h3>
+      <p>Uma recriação do clássico absoluto que deu início à indústria dos games. Este projeto foca na implementação de física de colisão elástica.</p>
+      <ul>
+        <li><b>Plataforma:</b> PC.</li>
+      </ul>
+      <p>
+        <a href="">🎮 ARRUMAR LINK</a>
+      </p>
+    </td>
+    <td width="250px" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Pong.png" width="220px">
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🌐 Além dos Games
 
