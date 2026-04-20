@@ -93,7 +93,7 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
         <li><b>Plataforma:</b> PC.</li>
       </ul>
       <p>
-        <a href="">🎮 ARRUMAR LINK</a>
+        <a href="https://pedrobianchidev.itch.io/minipong">🎮 Jogar</a>
       </p>
     </td>
     <td width="250px" align="center">
