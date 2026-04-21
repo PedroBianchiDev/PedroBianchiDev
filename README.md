@@ -1,33 +1,34 @@
-# Olá, eu sou o Pedro Bianchi! 👋
+# Pedro Henrique Araújo Bianchi
 
-### 🎮 Game Developer | Unity & C# Enthusiast
+### Hello! Welcome to my profile! 🇺🇸
 
-Sou estudante de **Ciência da Computação** apaixonado por transformar lógica em experiências interativas. Atualmente, foco meu desenvolvimento técnico na **Unity Engine**, explorando mecânicas de combate em grade, sistemas de inventário e arquitetura limpa para jogos.
+- 🖥️ *Unity Developer* 
+- 🎓 Studying *Computer Science* at [Anhembi Morumbi](https://portal.anhembi.br/)
+- 🐱 25 years
+- 🎮 Games / 🧿 Animes
+
+### Olá! Bem-vindo ao meu perfil! 🇧🇷
+
+- 🖥️ *Desenvolvedor Unity* 
+- 🎓 Estudante de *Ciência da Computação* na [Anhembi Morumbi](https://portal.anhembi.br/)
+- 🐱 26 anos
+- 🎮 Games / 🧿 Animes
+
+### 📬 Entre em Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrobianchidev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/pedro.bianchi2/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
 
-**Linguagens & Engines**
-<p align="left">
-  <img src="https://img.shields.io/badge/Unity-2023.2+-black?logo=unity&badgeColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL" />
-</p>
-
-**Web & Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-## 🚀 Projetos 
-
+### 🚀 Projetos 
 <table>
   <tr>
     <td>
@@ -57,7 +58,7 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
         <li><b>Plataforma:</b> PC.</li>
       </ul>
       <p>
-        <a href="https://play.unity.com/en/games/1b30895f-4898-4688-9a72-dc6a8b85417d/bombardment">🎮 Jogar</a>
+        <a href="https://pedrobianchidev.itch.io/bombardment">🎮 Jogar</a>
       </p>
     </td>
     <td width="250px">
@@ -75,7 +76,7 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
         <li><b>Plataforma:</b> PC.</li>
       </ul>
       <p>
-        <a href="https://play.unity.com/en/games/54219e89-b2c6-49d6-9dcc-318c7dd0e01e/clone-flappy-bird">🎮 Jogar</a>
+        <a href="https://pedrobianchidev.itch.io/flappy-bird-clone">🎮 Jogar</a>
       </p>
     </td>
     <td width="250px" align="center">
@@ -122,20 +123,17 @@ Sou estudante de **Ciência da Computação** apaixonado por transformar lógica
 
 
 
-## 🌐 Além dos Games
 
-Embora meu foco seja Gamedev, também possuo experiência com desenvolvimento Web e lógica de sistemas:
-- 🧩 [Xadrez no Console](https://github.com/PedroBianchiDev/xadrez-console) - Lógica de matrizes pura em C#.
-- 📜 [Decodificador de Texto](https://github.com/PedroBianchiDev/Challenger1-Oracle-Alura) - Manipulação de strings com JS.
-- 🐾 [Pokedex](https://github.com/PedroBianchiDev/Pokedex) - Consumo de APIs e interface dinâmica.
+## 🛠️ Tech Stack
 
----
-
-## 📫 Vamos conversar?
-
-- **LinkedIn:** [linkedin.com/in/pedrobianchidev](https://www.linkedin.com/in/pedrobianchidev/)
-- **Interesses:** Game Design, Cybersecurity e Animes.
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/tumblr_m0ch5ijbjY1qbnt4vo1_500.gifv" width="300" alt="Megaman" />
+**Linguagens & Engines**
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-2023.2+-black?logo=unity&badgeColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 </p>
