@@ -33,7 +33,7 @@
   <tr>
     <td>
       <h3>🌐 <a href="https://github.com/PedroBianchiDev/Megaman-PET">MegaMan EXE - PET</a></h3>
-      <p>Uma reimaginação do clássico sistema de batalha tática da série MegaMan Battle Network. O projeto recria a experiência de gerenciar seu próprio P.E.T. e NetNavi.</p>
+      <p>Uma reimaginação do clássico sistema de batalha tática da série MegaMan Battle Network. O projeto recria a experiência de gerenciar seu próprio P.E.T. e NetNavi.        </p>
       <ul>
         <li><b>Destaque:</b> Implementação fiel ao brinquedo <b>PET ADVANCED Megaman</b>.</li>
         <li><b>Plataforma:</b> Android.</li>
@@ -45,6 +45,24 @@
     </td>
     <td width="250">
       <img src="https://static.wikia.nocookie.net/megaman/images/0/08/MMNTWG4141.png/revision/latest?cb=20140320003212" alt="Screenshot do MegaMan EXE PET" width="250px">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <h3>🧩 <a href="https://github.com/PedroBianchiDev/TilePuzzle">Tile Puzzle</a></h3>
+      <p>Este jogo de lógica desafia o jogador a ordenar peças em uma grade 3x3 ou 4x4. O projeto foca na manipulação de estados de matriz e na verificação dinâmica de condições de vitória.</p>
+      <ul>
+        <li><b>Plataforma:</b> PC.</li>
+      </ul>
+      <p>
+        <a href="https://pedrobianchidev.itch.io/tile-puzzle">🎮 Jogar</a>
+      </p>
+    </td>
+    <td width="250px" align="center">
+      <img src="https://i.ibb.co/60wt5PYv/Tile-Puzzle.png" alt="Tile Puzzle Screenshot" width="200px">
     </td>
   </tr>
 </table>
@@ -102,26 +120,6 @@
     </td>
   </tr>
 </table>
-
-<table>
-  <tr>
-    <td>
-      <h3>🧩 <a href="https://github.com/PedroBianchiDev/TilePuzzle">Tile Puzzle</a></h3>
-      <p>Este jogo de lógica desafia o jogador a ordenar peças em uma grade 3x3 ou 4x4. O projeto foca na manipulação de estados de matriz e na verificação dinâmica de condições de vitória.</p>
-      <ul>
-        <li><b>Plataforma:</b> PC.</li>
-      </ul>
-      <p>
-        <a href="https://pedrobianchidev.itch.io/tile-puzzle">🎮 Jogar</a>
-      </p>
-    </td>
-    <td width="250px" align="center">
-      <img src="https://i.ibb.co/60wt5PYv/Tile-Puzzle.png" alt="Tile Puzzle Screenshot" width="200px">
-    </td>
-  </tr>
-</table>
-
-
 
 
 ## 🛠️ Tech Stack
